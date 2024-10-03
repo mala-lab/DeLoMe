@@ -1,5 +1,5 @@
 # DeLoMe
-Code for Graph Continual Learning with Debiased Lossless Memory Replay ([DeLoMe](https://arxiv.org/pdf/2404.10984)) (ECAI 2024)
+Code for Graph Continual Learning with Debiased Lossless Memory Replay ([DeLoMe](https://arxiv.org/pdf/2404.10984) and [Supplementary](supp.pdf)) (ECAI 2024)
 
 ## Abstract
 

@@ -12,4 +12,4 @@ Replace the dataset in the following command with the corresponding dataset like
      python train.py --dataset dataset --method DeLoMe --backbone SGC
 
 ## Acknowledgment
-This code is implemented based on [CGLB](https://github.com/QueuQ/CGLB/tree/master) Please refer to CGLB for more baselines and implementation details.
+This code is implemented based on [CGLB](https://github.com/QueuQ/CGLB/tree/master). Please refer to CGLB for more baselines and implementation details.

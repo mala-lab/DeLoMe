@@ -1,5 +1,5 @@
 # DeLoMe
-Code for Graph Continual Learning with Debiased Lossless Memory Replay ([DeLoMe](https://arxiv.org/pdf/2404.10984) and [Supplementary](supp.pdf)) (ECAI 2024)
+Code for Graph Continual Learning with Debiased Lossless Memory Replay ([DeLoMe](https://arxiv.org/pdf/2404.10984) and [Supplementary](Supp.pdf)) (ECAI 2024)
 
 ## Abstract
 
@@ -7,7 +7,7 @@ Real-life graph data often expands continually, rendering the learning of graph 
 ![Framework](framework.png)
 
 ## Train
-Replace the dataset in the following command with the corresponding dataset like CoraFull-CL
+Replace the dataset in the following command with the corresponding dataset like CoraFull-CL.
 
      python train.py --dataset dataset --method DeLoMe --backbone SGC
 
